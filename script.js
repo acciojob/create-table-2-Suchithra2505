@@ -1,7 +1,7 @@
 function createTable() {
     //Write your code here
 	// Prompt the user to enter the number of rows
-    var numRows = prompt("Input number of rows:");
+    var numRows = prompt("Input number of rows");
 
     // Convert the input to a number
     numRows = parseInt(numRows);
@@ -13,7 +13,7 @@ function createTable() {
     }
 
     // Prompt the user to enter the number of columns
-    var numColumns = prompt("Input number of columns:");
+    var numColumns = prompt("Input number of columns");
 
     // Convert the input to a number
     numColumns = parseInt(numColumns);
